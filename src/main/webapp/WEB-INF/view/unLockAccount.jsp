@@ -1,0 +1,1 @@
+<h1>congratulations Successfully registered.please login <a href="/login">here</a> </h1>
